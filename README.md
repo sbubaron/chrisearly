@@ -1,6 +1,7 @@
 # Getting Started
 ```
 git clone https://github.com/sbubaron/chrisearly
+cd chrisearly
 npm install
 npm start
 ```
